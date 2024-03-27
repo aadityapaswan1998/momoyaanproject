@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/momoyaanproject/clientlibs"/>
+    <filter root="/apps/momoyaanproject/components"/>
+    <filter root="/apps/momoyaanproject/i18n"/>
+</workspaceFilter>
